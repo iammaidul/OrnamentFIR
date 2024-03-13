@@ -1,4 +1,4 @@
-![Examples](img/proposed1.png)
+![Examples](image/model2.png)
 ### Publication
 Ornament image retrieval using few-shot learning, 
 By : Sk Maidul Islam, Subhankar Joardar, and Arif Ahmed Sekh
